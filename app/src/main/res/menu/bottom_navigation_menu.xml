@@ -11,4 +11,5 @@
         android:icon="@drawable/ic_baseline_article_24"
         android:title="Articles" />
 
+
 </menu>
