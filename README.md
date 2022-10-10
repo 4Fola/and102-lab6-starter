@@ -1,6 +1,3 @@
-# and102-lab6-starter
-Starter code for AND102 Lab 6
-
 *	*	*	*	*	*	*	*	*	*	*	*
 	NYTimes Article Search III: Fragments & Navigation in Kotlin
 *	*	*	*	*	*	*	*	*	*	*	*	
